@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://new-portofolio-one.vercel.app/](https://new-portofolio-one.vercel.app/)
 
-- ⚡ Fun fact **I thing I am Funny**
+- ⚡ Fun fact **I Think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
