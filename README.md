@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
-  <a href="https://new-portofolio-one.vercel.app/">
+  <a href="https://rzkprtm.com/">
     <img src="./assets/header.svg" width="100%" alt="Rizki Pratama — Senior Frontend Developer" />
   </a>
 </p>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://new-portofolio-one.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0e75b6?style=for-the-badge" /></a>
+  <a href="https://rzkprtm.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-0e75b6?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/rizk1pratama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Rizki191220@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/rizki.kii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -110,7 +110,7 @@ const rizki = {
 | 🧵 **Dame Ulos** | E-commerce site + admin panel for traditional Batak Ulos textiles | Next.js · MUI |
 
 <p align="center">
-  <a href="https://new-portofolio-one.vercel.app/">
+  <a href="https://rzkprtm.com/">
     <img src="https://img.shields.io/badge/🎮_Play_my_portfolio_—_Drive_the_Portfolio-61dafb?style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
